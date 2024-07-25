@@ -1,0 +1,5 @@
+*.opus
+*.dll
+*.exe
+*.obj
+build.bat
